@@ -19,7 +19,7 @@ ActiveScaffold::Localization.define('ja-jp') do |lang|
   lang['Download'] ||= 'ダウンロード'
   lang['Edit'] ||= '編集'
   lang['Export'] ||= 'Export' # needed?
-  lang['%s for %s'] ||= '%sの%s'
+  lang['%s for %s'] ||= '%2$sの%1$s'
   lang['%d %s found'] ||= '%d %s found' # needed?
   lang['(Filtered)'] ||= '(Filtered)' # needed?
   lang['Found'] ||= '個ありました'
